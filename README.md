@@ -12,7 +12,22 @@ After 8+ years of leading engineering teams in India, I spent time in Dubai comp
 <b>Data Pipelines:</b> Designing optimized MySQL schemas and ETL workflows for high-volume data transactions.</br>
 
 </br>📫 Connect with me: LinkedIn: linkedin.com/in/nidhipathak26  
-
+```mermaid
+%%{
+  init: {
+    'theme': 'base',
+    'themeVariables': {
+      'pie1': '#ff0000',
+      'pie2': '#00ff00',
+      'pie3': '#0000ff'
+    }
+  }
+}%%
+pie title Key Skills
+    "JavaScript" : 42
+    "Python" : 25
+    "HTML/CSS" : 20
+    "Other" : 13
 
 <!--
 **nidhipathak81/nidhipathak81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
