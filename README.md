@@ -31,8 +31,8 @@ After 8+ years of leading engineering teams in India, I spent time in Dubai comp
 ![JQuery](https://img.shields.io/badge/-JQuery-black?style=for-the-badge&logo=jquery&logoColor=white)
 <!-- ![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker) -->
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-black?style=for-the-badge&logo=amazon-aws)
-<!-- ![Cloud Foundry](https://img.shields.io/badge/-cloudfoundry-black?style=for-the-badge&logo=cloudfoundry)  -->
-<!-- ![Terraform](https://img.shields.io/badge/-terraform-black?style=for-the-badge&logo=terraform)  -->
+![OpenCV](https://img.shields.io/badge/-opencv-black?style=for-the-badge&logo=opencv) 
+![Pandas](https://img.shields.io/badge/-pandas-black?style=for-the-badge&logo=pandas)
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
 ![Apache Maven](https://img.shields.io/badge/-apachemaven-black?style=for-the-badge&logo=apachemaven)
 ![Visual Studio Code](https://img.shields.io/badge/-visualstudiocode-black?style=for-the-badge&logo=visualstudiocode)
