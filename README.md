@@ -1,12 +1,11 @@
 From Enterprise Java to Deep Learning... 💻➡️🤖
 
 👋  <b>Hi, I'm Nidhi Pathak! </b> </br>
-
-I am a Data Scientist and Full Stack Developer with over 8 years of experience building scalable enterprise solutions. I specialize in bridging the gap between complex Machine Learning models and production-ready software.</br></br>
+<b> Data Scientist | Full Stack Developer | Machine Learning Enthusiast </b> </br></br>
 🌍 <b> My Journey </b> </br>
 
 After 8+ years of leading engineering teams in India, I spent time in Dubai completing an intensive 🎓 Post-Graduate specialization in Data Science (AI, ML, and Deep Learning, Big Data). I have recently relocated to Cincinnati Ohio, USA, and am looking to bring my background in Full Stack Engineering and my new expertise in Data Science to a local or remote team.
-</br>
+</br></br>
 🛠 <b> What I do:</b> </br>
 <b>AI & Computer Vision:</b> Building real-time facial recognition and recommendation engines using OpenCV, TensorFlow, and PyTorch.</br>
 <b>Full Stack Engineering:</b> Architecting robust J2EE/Python applications and RESTful APIs.</br>
