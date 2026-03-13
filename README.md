@@ -12,23 +12,53 @@ After 8+ years of leading engineering teams in India, I spent time in Dubai comp
 <b>Data Pipelines:</b> Designing optimized MySQL schemas and ETL workflows for high-volume data transactions.</br>
 
 </br>📫 Connect with me: LinkedIn: linkedin.com/in/nidhipathak26  
-```mermaid
-%%{
-  init: {
-    'theme': 'base',
-    'themeVariables': {
-      'pie1': '#ff0000',
-      'pie2': '#00ff00',
-      'pie3': '#0000ff'
-    }
-  }
-}%%
-pie title Key Skills
-    "JavaScript" : 42
-    "Python" : 25
-    "HTML/CSS" : 20
-    "Other" : 13
+<html>
+    <head>
+        <link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet">
+        <link href="graph.css" rel="stylesheet">
+    </head>
+    <body>
+        <div id="graph-chart"></div>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.6/d3.min.js"></script>
+        <script src="graph.js"></script>
+        <script>
+            var config = {
+                width: 600,
+                height: 350,
+                valueProp: 'value',
+                labelProp: 'name',
+                subProp: 'players',
+                id: '#graph-chart'
+            }
 
+            var goalsData = [
+                { id: 1, name: '2012-2013',
+                    players: [
+                        { name: 'Aguero', value: 10 },
+                        { name: 'Suarez', value: 23 },
+                        { name: 'van Persie', value: 26 }
+                    ]
+                },
+                { id: 2, name: '2013-2014',
+                    players: [
+                        { name: 'Aguero', value: 17 },
+                        { name: 'Suarez', value: 31 },
+                        { name: 'van Persie', value: 2 }
+                    ]
+                },
+                { id: 3, name: '2014-2015',
+                    players: [
+                        { name: 'Aguero', value: 26 },
+                        { name: 'Suarez', value: 0 },
+                        { name: 'van Persie', value: 5 }
+                    ]
+                }
+            ]
+
+            var graph = new graphChart(config, goalsData);
+        </script>
+    </body>
+</html>
 <!--
 **nidhipathak81/nidhipathak81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
