@@ -8,9 +8,9 @@ I am a Data Scientist and Full Stack Developer with over 8 years of experience b
 After 8+ years of leading engineering teams in India, I spent time in Dubai completing an intensive 🎓 Post-Graduate specialization in Data Science (AI, ML, and Deep Learning, Big Data). I have recently relocated to Cincinnati Ohio, USA, and am looking to bring my background in Full Stack Engineering and my new expertise in Data Science to a local or remote team.
 </br>
 🛠 <b> What I do:</b> </br>
-AI & Computer Vision: Building real-time facial recognition and recommendation engines using OpenCV, TensorFlow, and PyTorch.</br>
-Full Stack Engineering: Architecting robust J2EE/Python applications and RESTful APIs.</br>
-Data Pipelines: Designing optimized MySQL schemas and ETL workflows for high-volume data transactions.</br>
+<b>AI & Computer Vision:</b> Building real-time facial recognition and recommendation engines using OpenCV, TensorFlow, and PyTorch.</br>
+<b>Full Stack Engineering:</b> Architecting robust J2EE/Python applications and RESTful APIs.</br>
+<b>Data Pipelines:</b> Designing optimized MySQL schemas and ETL workflows for high-volume data transactions.</br>
 
 </br>📫 Connect with me: LinkedIn: linkedin.com/in/nidhipathak26  
 
