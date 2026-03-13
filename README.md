@@ -1,6 +1,11 @@
-<b> Hey y'all, I'm Nidhi! I'm a Software Engineer at Spotify in Stockholm, Sweden. Born and raised in Red Hook, New York. I have just moved down to Cincinati, Ohio with my family.</b>
-
-In my spare time I create courses for Frontend Masters and LinkedIn Learning. I podcast for the Ladybug Podcast and JSParty
+👋 Hi, I'm Nidhi!
+I am a Data Scientist and Full Stack Developer with over 8 years of experience building scalable enterprise solutions. I specialize in bridging the gap between complex Machine Learning models and production-ready software.
+🛠 What I do:
+AI & Computer Vision: Building real-time facial recognition and recommendation engines using OpenCV, TensorFlow, and PyTorch.
+Full Stack Engineering: Architecting robust J2EE/Python applications and RESTful APIs.
+Data Pipelines: Designing optimized MySQL schemas and ETL workflows for high-volume data transactions.
+🎓 Recently completed a Post-Graduate Diploma in Data Science, where I focused on predictive modeling ,Computer Vision and NLP.
+📫 Connect with me: LinkedIn : linkedin.com/in/nidhipathak26  
 
 <!--
 **nidhipathak81/nidhipathak81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
