@@ -1,4 +1,6 @@
-## Hi there 👋
+<b> Hey y'all, I'm Nidhi! I'm a Software Engineer at Spotify in Stockholm, Sweden. Born and raised in Red Hook, New York. I have just moved down to Cincinati, Ohio with my family.</b>
+
+In my spare time I create courses for Frontend Masters and LinkedIn Learning. I podcast for the Ladybug Podcast and JSParty
 
 <!--
 **nidhipathak81/nidhipathak81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
