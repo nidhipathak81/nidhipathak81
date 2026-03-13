@@ -1,4 +1,4 @@
-👋 Hi, I'm Nidhi!
+👋  <b>Hi, I'm Nidhi! <b/> </br>
 I am a Data Scientist and Full Stack Developer with over 8 years of experience building scalable enterprise solutions. I specialize in bridging the gap between complex Machine Learning models and production-ready software.
 🛠 What I do:
 AI & Computer Vision: Building real-time facial recognition and recommendation engines using OpenCV, TensorFlow, and PyTorch.
