@@ -19,6 +19,7 @@ After 8+ years of leading engineering teams in India, I spent time in Dubai comp
 ![Hibernate](https://img.shields.io/badge/-hibernate-black?style=for-the-badge&logo=hibernate)
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python)  
 ![Perl](https://img.shields.io/badge/-perl-black?style=for-the-badge&logo=Perl)
+![Computer Vision](https://img.shields.io/badge/-computervision-black?style=for-the-badge&logo=computervision)
 ![OpenCV](https://img.shields.io/badge/-opencv-black?style=for-the-badge&logo=opencv) 
 ![Pandas](https://img.shields.io/badge/-pandas-black?style=for-the-badge&logo=pandas)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5&logoColor=white)
