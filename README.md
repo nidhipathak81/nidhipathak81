@@ -1,16 +1,15 @@
-👋  <b>Hi, I'm Nidhi! </b> </br>
+From Enterprise Java to Deep Learning... 💻➡️🤖
+
+👋  <b>Hi, I'm Nidhi Pathak! </b> </br>
+
 I am a Data Scientist and Full Stack Developer with over 8 years of experience building scalable enterprise solutions. I specialize in bridging the gap between complex Machine Learning models and production-ready software.</br></br>
 🛠 <b> What I do:</b> </br>
-AI & Computer Vision: Building real-time facial recognition and recommendation engines using OpenCV, TensorFlow, and PyTorch.
-Full Stack Engineering: Architecting robust J2EE/Python applications and RESTful APIs.
-Data Pipelines: Designing optimized MySQL schemas and ETL workflows for high-volume data transactions.
-</br>🎓 Recently completed a Post-Graduate Diploma in Data Science, where I focused on predictive modeling, Computer Vision, and NLP.
+AI & Computer Vision: Building real-time facial recognition and recommendation engines using OpenCV, TensorFlow, and PyTorch.</br>
+Full Stack Engineering: Architecting robust J2EE/Python applications and RESTful APIs.</br>
+Data Pipelines: Designing optimized MySQL schemas and ETL workflows for high-volume data transactions.</br>
+</br>🎓 I recently pivoted into Data Science, focusing on predictive modeling, Computer Vision, and NLP.
 </br>📫 Connect with me: LinkedIn: linkedin.com/in/nidhipathak26  
-From Enterprise Java to Deep Learning... 💻➡️🤖
-With 8+ years of experience at companies like LMZ Technologies and Tata Johnson Controls, I’ve spent my career making software faster, more secure, and more scalable.
-My current mission? Adding intelligence to that software. I recently pivoted into Data Science, where I build systems that can "see" (Computer Vision), "understand" (NLP), and "predict" (Predictive Modeling).
-Based in Houston, TX, I’m passionate about clean code, automated pipelines, and turning unstructured data into business value.
-✨ Fun fact: I once reduced development effort by 40% just by redesigning reusable components. I love efficiency!
+
 
 <!--
 **nidhipathak81/nidhipathak81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
