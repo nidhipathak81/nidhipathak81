@@ -4,7 +4,7 @@ From Enterprise Java to Deep Learning... 💻➡️🤖
 <b> Data Scientist | Full Stack Developer | Machine Learning Enthusiast </b> </br></br>
 🌍 <b> My Journey </b> </br>
 
-After 8+ years of leading engineering teams in India, I spent time in Dubai completing an intensive 🎓 Post-Graduate specialization in Data Science (AI, ML, and Deep Learning, Big Data). I have recently relocated to Cincinnati Ohio, USA, and am looking to bring my background in Full Stack Engineering and my new expertise in Data Science to a local or remote team.
+After 8+ years of leading engineering teams in India, I spent time in Dubai completing an intensive 🎓 Post-Graduate specialization in Data Science (ML, NLP, Deep Learning and Big Data). I have recently relocated to Cincinnati Ohio, USA, and I am looking to bring my background in Full Stack Engineering and my new expertise in Data Science to a local or remote team.
 </br></br>
 🛠 <b> What I do:</b> </br>
 <b>AI & Computer Vision:</b> Building real-time facial recognition and recommendation engines using OpenCV, TensorFlow, and PyTorch.</br>
