@@ -38,7 +38,7 @@ After 8+ years of leading engineering teams in India, I spent time in Dubai comp
 ![Visual Studio Code](https://img.shields.io/badge/-visualstudiocode-black?style=for-the-badge&logo=visualstudiocode)
 ![Eclipse IDE](https://img.shields.io/badge/-eclipseide-black?style=for-the-badge&logo=eclipseide)
 ![Linux](https://img.shields.io/badge/-linux-black?style=for-the-badge&logo=linux)
-<!-- ![Kibana](https://img.shields.io/badge/-kibana-black?style=for-the-badge&logo=kibana)  -->
+![Apache](https://img.shields.io/badge/-apache-black?style=for-the-badge&logo=apache)
 ![Apache Tomcat](https://img.shields.io/badge/-apachetomcat-black?style=for-the-badge&logo=apachetomcat)
 <!-- ![SonarQube](https://img.shields.io/badge/-sonarqube-black?style=for-the-badge&logo=sonarqube)  -->
 <!-- ![Cucumber](https://img.shields.io/badge/-cucumber-black?style=for-the-badge&logo=cucumber) <br/>  -->
