@@ -1,11 +1,11 @@
-👋  <b>Hi, I'm Nidhi! </b> </br></br>
+👋  <b>Hi, I'm Nidhi! </b> </br>
 I am a Data Scientist and Full Stack Developer with over 8 years of experience building scalable enterprise solutions. I specialize in bridging the gap between complex Machine Learning models and production-ready software.</br></br>
-🛠 What I do:
+🛠 <b> What I do:</b> </br>
 AI & Computer Vision: Building real-time facial recognition and recommendation engines using OpenCV, TensorFlow, and PyTorch.
 Full Stack Engineering: Architecting robust J2EE/Python applications and RESTful APIs.
 Data Pipelines: Designing optimized MySQL schemas and ETL workflows for high-volume data transactions.
-</br></br>🎓 Recently completed a Post-Graduate Diploma in Data Science, where I focused on predictive modeling ,Computer Vision and NLP.
-</br></br>📫 Connect with me: LinkedIn : linkedin.com/in/nidhipathak26  
+</br>🎓 Recently completed a Post-Graduate Diploma in Data Science, where I focused on predictive modeling, Computer Vision, and NLP.
+</br>📫 Connect with me: LinkedIn: linkedin.com/in/nidhipathak26  
 
 <!--
 **nidhipathak81/nidhipathak81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
