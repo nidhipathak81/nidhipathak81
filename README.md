@@ -6,6 +6,11 @@ Full Stack Engineering: Architecting robust J2EE/Python applications and RESTful
 Data Pipelines: Designing optimized MySQL schemas and ETL workflows for high-volume data transactions.
 </br>🎓 Recently completed a Post-Graduate Diploma in Data Science, where I focused on predictive modeling, Computer Vision, and NLP.
 </br>📫 Connect with me: LinkedIn: linkedin.com/in/nidhipathak26  
+From Enterprise Java to Deep Learning... 💻➡️🤖
+With 8+ years of experience at companies like LMZ Technologies and Tata Johnson Controls, I’ve spent my career making software faster, more secure, and more scalable.
+My current mission? Adding intelligence to that software. I recently pivoted into Data Science, where I build systems that can "see" (Computer Vision), "understand" (NLP), and "predict" (Predictive Modeling).
+Based in Houston, TX, I’m passionate about clean code, automated pipelines, and turning unstructured data into business value.
+✨ Fun fact: I once reduced development effort by 40% just by redesigning reusable components. I love efficiency!
 
 <!--
 **nidhipathak81/nidhipathak81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
