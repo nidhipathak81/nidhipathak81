@@ -12,7 +12,7 @@ After 8+ years of leading engineering teams in India, I spent time in Dubai comp
 <b>Data Pipelines:</b> Designing optimized MySQL schemas and ETL workflows for high-volume data transactions.</br>
 
 </br>📫 Connect with me: LinkedIn: linkedin.com/in/nidhipathak26  
-```mermaid
+mermaid
 %%{
   init: {
     'theme': 'base',
