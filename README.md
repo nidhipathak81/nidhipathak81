@@ -19,8 +19,11 @@ After 8+ years of leading engineering teams in India, I spent time in Dubai comp
 ![Hibernate](https://img.shields.io/badge/-hibernate-black?style=for-the-badge&logo=hibernate)
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python)  
 ![Perl](https://img.shields.io/badge/-perl-black?style=for-the-badge&logo=Perl)
+![OpenCV](https://img.shields.io/badge/-opencv-black?style=for-the-badge&logo=opencv) 
+![Pandas](https://img.shields.io/badge/-pandas-black?style=for-the-badge&logo=pandas)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
+![JQuery](https://img.shields.io/badge/-JQuery-black?style=for-the-badge&logo=jquery&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js)
 ![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=css3)
@@ -28,20 +31,18 @@ After 8+ years of leading engineering teams in India, I spent time in Dubai comp
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql) 
 ![Oracle](https://img.shields.io/badge/-Oracle-black?style=for-the-badge&logo=oracle&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-black?style=for-the-badge&logo=flask&logoColor=white)
-![JQuery](https://img.shields.io/badge/-JQuery-black?style=for-the-badge&logo=jquery&logoColor=white)
-<!-- ![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker) -->
+![Apache](https://img.shields.io/badge/-apache-black?style=for-the-badge&logo=apache)
+![Apache Tomcat](https://img.shields.io/badge/-apachetomcat-black?style=for-the-badge&logo=apachetomcat)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-black?style=for-the-badge&logo=amazon-aws)
-![OpenCV](https://img.shields.io/badge/-opencv-black?style=for-the-badge&logo=opencv) 
-![Pandas](https://img.shields.io/badge/-pandas-black?style=for-the-badge&logo=pandas)
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
 ![Apache Maven](https://img.shields.io/badge/-apachemaven-black?style=for-the-badge&logo=apachemaven)
 ![Visual Studio Code](https://img.shields.io/badge/-visualstudiocode-black?style=for-the-badge&logo=visualstudiocode)
 ![Eclipse IDE](https://img.shields.io/badge/-eclipseide-black?style=for-the-badge&logo=eclipseide)
 ![Linux](https://img.shields.io/badge/-linux-black?style=for-the-badge&logo=linux)
-![Apache](https://img.shields.io/badge/-apache-black?style=for-the-badge&logo=apache)
-![Apache Tomcat](https://img.shields.io/badge/-apachetomcat-black?style=for-the-badge&logo=apachetomcat)
+
 <!-- ![SonarQube](https://img.shields.io/badge/-sonarqube-black?style=for-the-badge&logo=sonarqube)  -->
 <!-- ![Cucumber](https://img.shields.io/badge/-cucumber-black?style=for-the-badge&logo=cucumber) <br/>  -->
+<!-- ![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker) -->
 [![nidhipathak81 GitHub Stats](https://github-readme-stats.vercel.app/api?username=nidhipathak81&show_icons=true)](https://github.com/nidhipathak81)
 <!--
 **nidhipathak81/nidhipathak81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
