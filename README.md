@@ -38,8 +38,8 @@ After 8+ years of leading engineering teams in India, I spent time in Dubai comp
 ![Kibana](https://img.shields.io/badge/-kibana-black?style=for-the-badge&logo=kibana)
 ![Apache Tomcat](https://img.shields.io/badge/-apachetomcat-black?style=for-the-badge&logo=apachetomcat)
 ![SonarQube](https://img.shields.io/badge/-sonarqube-black?style=for-the-badge&logo=sonarqube)
-![Cucumber](https://img.shields.io/badge/-cucumber-black?style=for-the-badge&logo=cucumber) 
-[![nidhipateriya GitHub Stats](https://github-readme-stats.vercel.app/api?username=nidhipateriya&show_icons=true)](https://github.com/nidhipateriya)
+![Cucumber](https://img.shields.io/badge/-cucumber-black?style=for-the-badge&logo=cucumber) <br/>
+[![nidhipathak81 GitHub Stats](https://github-readme-stats.vercel.app/api?username=nidhipathak81&show_icons=true)](https://github.com/nidhipathak81)
 <!--
 **nidhipathak81/nidhipathak81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
