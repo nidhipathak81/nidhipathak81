@@ -24,7 +24,8 @@ After 8+ years of leading engineering teams in India, I spent time in Dubai comp
 ![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=for-the-badge&logo=bootstrap)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql) 
+![Oracle](https://img.shields.io/badge/-Oracle-black?style=for-the-badge&logo=oracle)
 <!-- ![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker) -->
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-black?style=for-the-badge&logo=amazon-aws)
 <!-- ![Cloud Foundry](https://img.shields.io/badge/-cloudfoundry-black?style=for-the-badge&logo=cloudfoundry)  -->
