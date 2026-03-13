@@ -36,7 +36,7 @@ After 8+ years of leading engineering teams in India, I spent time in Dubai comp
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
 ![Apache Maven](https://img.shields.io/badge/-apachemaven-black?style=for-the-badge&logo=apachemaven)
 ![Visual Studio Code](https://img.shields.io/badge/-visualstudiocode-black?style=for-the-badge&logo=visualstudiocode)
-<!-- ![IntelliJ IDEA](https://img.shields.io/badge/-intellijidea-black?style=for-the-badge&logo=intellijidea)  -->
+![Eclipse IDE](https://img.shields.io/badge/-eclipseide-black?style=for-the-badge&logo=eclipseide)
 <!-- ![Postman](https://img.shields.io/badge/-postman-black?style=for-the-badge&logo=postman)  -->
 <!-- ![Kibana](https://img.shields.io/badge/-kibana-black?style=for-the-badge&logo=kibana)  -->
 ![Apache Tomcat](https://img.shields.io/badge/-apachetomcat-black?style=for-the-badge&logo=apachetomcat)
